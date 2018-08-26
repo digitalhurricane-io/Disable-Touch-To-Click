@@ -1,4 +1,4 @@
-# Disable-Touchpad-While-Typing
+# Disable Touchpad While Typing
 Disables touchpad while typing. Tested on Ubuntu 18.04
 
 This is a python3 script that disables your touchpad's "touch to click" while you're typing.
